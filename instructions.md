@@ -17,6 +17,13 @@ eval `ssh-agent -s`
 ssh-add ~/.ssh/github
 ```
 
+If you have installed **tmux** add this line to the `.bashrc` too.
+
+```
+tmux
+clear
+```
+
 ## Git Aliases
 
 ```

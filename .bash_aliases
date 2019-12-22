@@ -1,0 +1,6 @@
+alias dp="docker ps"
+alias dv="docker volume ls"
+alias dcd="docker-compose down"
+alias dcu="docker-compose up -d"
+alias dcb="docker-compose build --no-cache"
+alias gtbe="cd /home/jwan/code/bejebeje.elm"

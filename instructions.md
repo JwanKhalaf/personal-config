@@ -37,4 +37,5 @@ git config --global alias.l "log --color --graph --pretty=format:'%Cred%h%Creset
 git config --global alias.db "branch -d"
 git config --global alias.fdb "branch -D"
 git config --global alias.dbr "push -d origin"
+git config --global alias.cf "diff --name-status"
 ```

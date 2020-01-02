@@ -38,4 +38,5 @@ git config --global alias.db "branch -d"
 git config --global alias.fdb "branch -D"
 git config --global alias.dbr "push -d origin"
 git config --global alias.cf "diff --name-status"
+git config --global alias.b branch
 ```
